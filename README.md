@@ -125,11 +125,3 @@ Parsing concluído com sucesso!
 
 > **Observação:**  
 > A saída pode incluir mensagens adicionais definidas pelas ações semânticas nas regras do parser, conforme a implementação.
-
----
-
-## 👥 Desenvolvedores
-
-- Guilherme Soares
-- Artur Rodrigues
-- Danilo Carvalho
